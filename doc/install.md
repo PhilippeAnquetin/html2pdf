@@ -19,6 +19,10 @@ You just have to launch the following command on the root folder of your project
 ```bash
 composer require spipu/html2pdf
 ```
+or for php8.0, use :
+```bash
+/usr/bin/php8.0-cli composer.phar require spipu/html2pdf --with-all-dependencies
+```
 
 If you do not want to use composer, you will need to:
 
